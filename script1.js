@@ -87,3 +87,4 @@ writeYourGenres();
 
 console.log(personalMovieDB);
 // Код возьмите из предыдущего домашнего задания
+//rgegege
